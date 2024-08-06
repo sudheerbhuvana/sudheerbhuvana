@@ -82,7 +82,7 @@ Hi, I'm Sudheer
 
 <p align="center">
     <a href="https://github.com/sudheerbhuvana"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sudheerbhuvana-blue?style=flat-square&logo=github"></a>
-    <a href="https://www.linkedin.com/in/sudheerbhuvana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sai%20Suraj-blue?style=flat-square&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/sudheerbhuvana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sudheer%20Bhuvana-blue?style=flat-square&logo=linkedin"></a>
     <a href="mailto:sudheerbhuvana25@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sudheerbhuvana@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
