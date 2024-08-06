@@ -1,31 +1,91 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">
+Hi, I'm Sai Suraj
+	<a href="https://github.com/saisurajch" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=075F0A&center=true&vCenter=true&width=435&lines=AI+%7C+DS+%7C+ML+Enthusiast;Discord+Bots+%26+Backend+Developer;Love+to+learn+new+things;Interested+in+new+projects" alt="Typing SVG" /></a>
+</p>
 
-## 💫 About Me
-🔭 I'm currently working on **[Current Project]**
-🌱 I'm learning **[Technology/Skill]**
-💬 Ask me about **[Your Expertise]**
-📫 Reach me at **your.email@example.com**
-⚡ Fun fact: **[Interesting Fact About You]**
+<hr>
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile) 
+<pre>
+💻 I'm an AI & DS student at KL University
+📚 I'm a Discord Bots & Backend developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Data Analysis & Visualization, MERN
+🌱 Learning about Data Science stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in AI & ML application development
+</pre>
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<hr>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ My Favorite Tools
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 👨‍💻 Programming Languages
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
+    <img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧰 Frameworks and Libraries
+
+<p>
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white">
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white">
+    <img alt="Gcloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white">
+    <img alt="AWS DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+</p>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img alt="Sai Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saisurajch&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="Sai Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisurajch&langs_count=8&layout=compact&theme=algolia" height="192px"/>
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+    <a href="https://github.com/saisurajch"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-saisurajch-blue?style=flat-square&logo=github"></a>
+    <a href="https://www.linkedin.com/in/saisurajch/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sai%20Suraj-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:saisurajch@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saisurajch@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=saisurajch&label=Profile%20views&color=0e75b6&style=flat" alt="saisurajch" />
+</p>
