@@ -1,6 +1,6 @@
 <h1 align="center">
-Hi, I'm Sai Suraj
-	<a href="https://github.com/saisurajch" target="_self">
+Hi, I'm Sudheer
+	<a href="https://github.com/sudheerbhuvana" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
@@ -74,18 +74,18 @@ Hi, I'm Sai Suraj
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img alt="Sai Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saisurajch&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    <img alt="Sai Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisurajch&langs_count=8&layout=compact&theme=algolia" height="192px"/>
+    <img alt="Sudheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudheerbhuvana&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="Sudheer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerbhuvana&langs_count=8&layout=compact&theme=algolia" height="192px"/>
 </p>
 
 ## 🤝 Connect with Me
 
 <p align="center">
-    <a href="https://github.com/saisurajch"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-saisurajch-blue?style=flat-square&logo=github"></a>
-    <a href="https://www.linkedin.com/in/saisurajch/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sai%20Suraj-blue?style=flat-square&logo=linkedin"></a>
-    <a href="mailto:saisurajch@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saisurajch@gmail.com-blue?style=flat-square&logo=gmail"></a>
+    <a href="https://github.com/sudheerbhuvana"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sudheerbhuvana-blue?style=flat-square&logo=github"></a>
+    <a href="https://www.linkedin.com/in/sudheerbhuvana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sai%20Suraj-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:sudheerbhuvana25@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sudheerbhuvana@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=saisurajch&label=Profile%20views&color=0e75b6&style=flat" alt="saisurajch" />
+    <img src="https://komarev.com/ghpvc/?username=sudheerbhuvana&label=Profile%20views&color=0e75b6&style=flat" alt="sudheerbhuvana" />
 </p>
