@@ -22,62 +22,6 @@ Hi, I'm Sudheer
 </pre>
 
 <hr>
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
-    <img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
-</p>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white">
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
-    <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white">
-    <img alt="Gcloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white">
-    <img alt="AWS DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-</p>
-
-<hr>
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img alt="Sudheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudheerbhuvana&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    <img alt="Sudheer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerbhuvana&langs_count=8&layout=compact&theme=algolia" height="192px"/>
-</p>
-
 ## 🤝 Connect with Me
 
 <p align="center">
