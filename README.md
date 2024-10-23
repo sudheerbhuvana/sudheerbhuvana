@@ -21,7 +21,7 @@ Hi, I'm Sudheer
 🚩 Interested in AI & ML application development
 </pre>
 
-<hr>
+
 ## 🤝 Connect with Me
 
 <p align="center">
