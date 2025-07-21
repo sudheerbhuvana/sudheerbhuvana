@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-<!--
+
 **sudheerbhuvana/sudheerbhuvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
+
+
+
 <a href="#"><img width="38%" height="auto" src="https://discord.c99.nl/widget/theme-3/781882376790736937.png" height="38px"/></a>
-
-
-
 
 
 Here are some ideas to get you started:
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
