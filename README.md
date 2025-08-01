@@ -6,7 +6,7 @@
 - 🕵️‍♂️ Stalk me here [heyysudhi.in](https://heyysudhi.in)
 
 - 📫 Email me: [contact@heyysudhi.in](mailto:contact@heyysudhi.in)  
-- 💬 Discord: [781882376790736937](https://discord.com/users/781882376790736937)
+- 💬 Discord: [heyysudhi](https://discord.com/users/781882376790736937)
 
 ---
 
