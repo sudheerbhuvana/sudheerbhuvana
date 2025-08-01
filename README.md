@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sudheer Reddy</h1>
+<h1 align="center">Hey 👋, I'm Sudheer</h1>
 <h3 align="center">I write code that works... sometimes 😆</h3>
 
 - 🛠️ Currently hacking on random bots, servers & weird side projects  
