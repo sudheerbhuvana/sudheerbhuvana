@@ -3,7 +3,7 @@
 
 - 🛠️ Currently hacking on random bots, servers & weird side projects  
 - 🌱 Learning **Next.js**, **React Native**, and how not to break prod  
-- 🕵️‍♂️ Stalk me here 👉 [heyysudhi.in](https://heyysudhi.in)
+- 🕵️‍♂️ Stalk me here [heyysudhi.in](https://heyysudhi.in)
 
 - 📫 Email me: [contact@heyysudhi.in](mailto:contact@heyysudhi.in)  
 - 💬 Discord: [781882376790736937](https://discord.com/users/781882376790736937)
