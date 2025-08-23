@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/781882376790736937">
-    <img width="38%" src="https://discord.c99.nl/widget/theme-3/781882376790736937.png" />
+    <img width="38%" src="https://discord.c99.nl/widget/theme-2/781882376790736937.png" />
   </a>
 </p>
 
