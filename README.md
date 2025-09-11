@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sudheerbhuvana.in/"><img width="50%" alt="Hello, I'm Sudheer. I do open source!" src="https://i.imghippo.com/files/oBa1116ylk.png" /></a></p>
+<p align="center"><a href="https://sudheerbhuvana.in/"><img width="50%" alt="Hello, I'm Sudheer." src="https://i.imghippo.com/files/oBa1116ylk.png" /></a></p>
 <h3 align="center">Self Taught Coder 🚀</h3>
 
 - 📫 Reach me: [contact@heyysudhi.in](mailto:contact@heyysudhi.in)  
